@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I recently graduated from Denison University, class of 2024, with a B.A. in Economics and Data Analytics. My interests include commercial real estate, data analysis, and filmography.<br>I'm currently working on Evaluating the Impact of Financial Fair Play (FFP) Regulations on<br>European Football
+<br>I'm currently working on Evaluating the Impact of Financial Fair Play (FFP) Regulations on<br>European Football
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dereksiriboe) 
 

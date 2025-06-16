@@ -1,5 +1,5 @@
 # About Me:
-<br>I'm currently working on some<br>cool AI stuff
+<br>I'm currently working on some<br>cool stuff
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dereksiriboe) 
 
